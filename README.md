@@ -6,6 +6,7 @@
     - SQL
     - HTML
     - CSS
+    - PHP
     - Assembler
     - Git and GitHub
 - And I'm Studying to learn more and get larger this list.
