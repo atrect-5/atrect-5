@@ -9,7 +9,9 @@
     - PHP
     - Assembler
     - Git and GitHub
-- And I'm Studying to learn more and get larger this list.
+  And I'm Studying to learn more and get larger this list.
+- I currently studying...
+    - Python
 <!---
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
