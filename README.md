@@ -8,6 +8,7 @@
     - CSS
     - Assembler
     - Git and GitHub
+- And I'm Studying to learn more and get larger this list.
 <!---
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
