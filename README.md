@@ -15,6 +15,7 @@
   
 - I currently studying...
     - Python
+    - Angular
 <!---
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
