@@ -3,6 +3,7 @@
     - Java
     - C++
     - c#
+    - Python
     - SQL
     - HTML
     - CSS
@@ -14,8 +15,8 @@
   
   
 - I currently studying...
-    - Python
     - Angular
+    - React
 <!---
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
