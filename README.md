@@ -17,6 +17,7 @@
 - I currently studying...
     - Angular
     - React
+    - JavaScript
 <!---
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
