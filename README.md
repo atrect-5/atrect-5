@@ -15,6 +15,7 @@
   
   
 - I currently studying...
+    - Node JS
     - Angular
     - React
     - JavaScript
