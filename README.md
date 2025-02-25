@@ -15,10 +15,11 @@
   
   
 - I currently studying...
+    - JavaScript
     - Node JS
     - Angular
     - React
-    - JavaScript
+    - Vite
 <!---
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
