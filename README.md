@@ -20,6 +20,7 @@
     - Angular
     - React
     - Vite
+    - MQTT and WebSocket
 <!---
 - 👀 I’m interested in 
 - 💞️ I’m looking to collaborate on ...
