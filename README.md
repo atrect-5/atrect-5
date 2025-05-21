@@ -1,52 +1,68 @@
 
-# 👋 ¡Hola! Soy Alejandro Gonzalez 
-También me puedes encontrar como **@atrect-5** en GitHub.
+# 👋 Hi! I'm Alejandro Gonzalez  
+You can also find me as **@atrect-5** on GitHub.  
 
-## 🧑‍💻 Sobre mí
-Soy un entusiasta del desarrollo de software originario de México.  
-Actualmente estoy ampliando mis conocimientos en desarrollo web y tecnologías modernas.  
-Me apasiona aprender cosas nuevas y construir soluciones útiles con código.  
-Estudie en una preparatoria tecnica en Guadalajara (CETI) y actualmente estoy 
-complementando mi conocimiento con cursos de distintas tecnologias. Tambien 
-estoy trabajando en proyectos para microempresas por mi propia cuenta.
+
+## 🧑‍💻 About Me  
+I'm a software development enthusiast from Mexico.   
+I'm currently expanding my knowledge in web development and modern technologies.   
+I'm passionate about learning new things and building useful solutions through code.   
+I studied at a technical high school in Guadalajara (CETI), and I'm currently complementing my education with courses in various technologies.   
+I'm also working independently on projects for small businesses.  
+
 
 ---
 
-## 📚 Actualmente estoy estudiando y practicando con:
+
+## 📚 Currently Learning, Practicing and Using
+
+### 🧑‍💻 Programming Languages
 - JavaScript
+- Python
 - HTML & CSS
+
+### ⚙️ Frameworks & Libraries
 - Node.js
 - Angular
 - React  
-  - (Vite)  
-  - (Create React App)
+  - Vite  
+  - Create React App
 - MQTT & WebSocket
+
+### 🗄️ Databases
+- InfluxDB
+- MongoDB
+
+### 🛠️ Tools
+- Postman
 - Git & GitHub
 
-Puedes ver mis prácticas en los repositorios de este perfil 👇
+
+You can check out my practice projects in the repositories on this profile 👇  
+And I'm still learning to keep growing this list 🚀  
 
 ---
 
-## 🧠 Tecnologías que he utilizado en la preparatoria:
-> *Nota: No tengo repositorios disponibles de estos proyectos.*
+
+## 🧠 Technologies I Used in High School  
+> *Note: I don't have repositories available for these projects.*  
 
 - **Java** (Android Studio)
 - **C++**
 - **C#**
 - **Python**
-- **SQL**
+- **MySQL**
 - **HTML & CSS**
 - **PHP**
 - **Assembler**
 
-Y sigo aprendiendo para hacer crecer esta lista 🚀
 ---
 
-## 📫 ¿Cómo contactarme?
+## 📫 How to reach me
 - 📧 alex1123.nel@gmail.com
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrect-5&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrect-5&layout=compact&theme=dark)
