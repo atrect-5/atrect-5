@@ -1,34 +1,51 @@
-- 👋 Hi, I’m Alejandro Gonzalez, or atrect5 in GitHub
-- I already know about some programming lenguages and technologies, like:
-    - Java
-    - C++
-    - c#
-    - Python
-    - SQL
-    - HTML
-    - CSS
-    - PHP
-    - Assembler
-    - Git and GitHub
-        
-  And I'm Studying to learn more and get larger this list.  
-  
-  
-- I currently studying...
-    - JavaScript
-    - Node JS
-    - Angular
-    - React
-    - Vite
-    - MQTT and WebSocket
-<!---
-- 👀 I’m interested in 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+# 👋 ¡Hola! Soy Alejandro Gonzalez 
+También me puedes encontrar como **@atrect-5** en GitHub.
 
-atrect-5/atrect-5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧑‍💻 Sobre mí
+Soy un entusiasta del desarrollo de software originario de México.  
+Actualmente estoy ampliando mis conocimientos en desarrollo web y tecnologías modernas.  
+Me apasiona aprender cosas nuevas y construir soluciones útiles con código.  
+Estudie en una preparatoria tecnica en Guadalajara (CETI) y actualmente estoy 
+complementando mi conocimiento con cursos de distintas tecnologias.
+
+---
+
+## 📚 Actualmente estoy estudiando y practicando con:
+- JavaScript
+- HTML & CSS
+- Node.js
+- Angular
+- React  
+  - (Vite)  
+  - (Create React App)
+- MQTT & WebSocket
+- Git & GitHub
+
+Puedes ver mis prácticas en los repositorios de este perfil 👇
+
+---
+
+## 🧠 Tecnologías que he utilizado en la preparatoria:
+> *Nota: No tengo repositorios disponibles de estos proyectos.*
+
+- **Java** (Android Studio)
+- **C++**
+- **C#**
+- **Python**
+- **SQL**
+- **HTML & CSS**
+- **PHP**
+- **Assembler**
+
+Y sigo aprendiendo para hacer crecer esta lista 🚀
+---
+
+## 📫 ¿Cómo contactarme?
+- 📧 alex1123.nel@gmail.com
+
+---
+
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrect-5&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrect-5&layout=compact&theme=dark)
