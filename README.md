@@ -7,7 +7,8 @@ Soy un entusiasta del desarrollo de software originario de México. 
 Actualmente estoy ampliando mis conocimientos en desarrollo web y tecnologías modernas.  
 Me apasiona aprender cosas nuevas y construir soluciones útiles con código.  
 Estudie en una preparatoria tecnica en Guadalajara (CETI) y actualmente estoy 
-complementando mi conocimiento con cursos de distintas tecnologias.
+complementando mi conocimiento con cursos de distintas tecnologias. Tambien 
+estoy trabajando en proyectos para microempresas por mi propia cuenta.
 
 ---
 
