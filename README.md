@@ -5,7 +5,6 @@ You can also find me as **@atrect-5** on GitHub.
 
 ## 🧑‍💻 About Me  
 I'm a software development enthusiast from Mexico.   
-I'm currently expanding my knowledge in web development and modern technologies.   
 I'm passionate about learning new things and building useful solutions through code.   
 
   
