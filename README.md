@@ -7,6 +7,8 @@ You can also find me as **@atrect-5** on GitHub.
 I'm a software development enthusiast from Mexico.   
 I'm currently expanding my knowledge in web development and modern technologies.   
 I'm passionate about learning new things and building useful solutions through code.   
+
+  
 I studied at a technical high school in Guadalajara (CETI), and I'm currently complementing my education with courses in various technologies.   
 I'm also working independently on projects for small businesses.  
 
