@@ -51,8 +51,9 @@ And I'm still learning to keep growing this list 🚀
 - **Java** (Android Studio)
 - **C++**
 - **C#**
-- **Python**
 - **MySQL**
+- **MariaDB**
+- **XAMPP**
 - **HTML & CSS**
 - **PHP**
 - **Assembler**
