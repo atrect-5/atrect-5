@@ -65,6 +65,9 @@ Y sigo aprendiendo para seguir creciendo esta lista 🚀
 
 ---
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrect-5&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atrect-5&layout=compact&theme=dark)
+## 📊 Estadísticas de GitHub  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atrect-5&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrect-5&layout=compact&theme=dark" />
+</p>
