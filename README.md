@@ -21,9 +21,11 @@ I'm also working independently on projects for small businesses.
 - JavaScript
 - Python
 - HTML & CSS
+- C# (Currently Learning)
 
 ### ⚙️ Frameworks & Libraries
 - Node.js
+- .Net (Currently Learning)
 - Angular
 - React  
   - Vite  
