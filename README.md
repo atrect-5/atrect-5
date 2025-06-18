@@ -21,9 +21,11 @@ También estoy trabajando de forma independiente en proyectos para pequeños neg
 - JavaScript
 - Python
 - HTML & CSS
+- C# (Aprendiendo Actualmente)
 
 ### ⚙️ Frameworks y Librerías
 - Node.js
+- .Net (Aprendiendo Actualmente)
 - Angular
 - React  
   - Vite  
