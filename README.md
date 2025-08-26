@@ -36,6 +36,7 @@ I'm also working independently on projects for small businesses.
 - InfluxDB
 - MongoDB
 - Postgres
+- SQL Server (Currently Learning)
 
 ### 🛠️ Tools
 - Postman
