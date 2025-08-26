@@ -36,6 +36,7 @@ También estoy trabajando de forma independiente en proyectos para pequeños neg
 - InfluxDB
 - MongoDB
 - Postgres
+- SQL Server (Aprendiendo Actualmente)
 
 ### 🛠️ Herramientas
 - Postman
