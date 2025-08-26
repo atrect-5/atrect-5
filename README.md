@@ -35,6 +35,7 @@ También estoy trabajando de forma independiente en proyectos para pequeños neg
 ### 🗄️ Bases de datos
 - InfluxDB
 - MongoDB
+- Postgres
 
 ### 🛠️ Herramientas
 - Postman
