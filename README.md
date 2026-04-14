@@ -21,11 +21,11 @@ I'm also working independently on projects for small businesses.
 - JavaScript
 - Python
 - HTML & CSS
-- C# (Currently Learning)
+- C#
 
 ### ⚙️ Frameworks & Libraries
 - Node.js
-- .Net (Currently Learning)
+- .Net 
 - Angular
 - React  
   - Vite  
@@ -36,11 +36,14 @@ I'm also working independently on projects for small businesses.
 - InfluxDB
 - MongoDB
 - Postgres
-- SQL Server (Currently Learning)
+- SQL Server
 
 ### 🛠️ Tools
 - Postman
 - Git & GitHub
+- Docker (Currently Learning)
+- PLC
+- PlatformIO
 
 
 You can check out my practice projects in the repositories on this profile 👇  
