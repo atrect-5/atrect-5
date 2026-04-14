@@ -21,11 +21,11 @@ También estoy trabajando de forma independiente en proyectos para pequeños neg
 - JavaScript
 - Python
 - HTML & CSS
-- C# (Aprendiendo Actualmente)
+- C# 
 
 ### ⚙️ Frameworks y Librerías
 - Node.js
-- .Net (Aprendiendo Actualmente)
+- .Net 
 - Angular
 - React  
   - Vite  
@@ -36,11 +36,14 @@ También estoy trabajando de forma independiente en proyectos para pequeños neg
 - InfluxDB
 - MongoDB
 - Postgres
-- SQL Server (Aprendiendo Actualmente)
+- SQL Server 
 
 ### 🛠️ Herramientas
 - Postman
 - Git & GitHub
+- Docker (Aprendiendo Actualmente)
+- PLC
+- PlatformIO
 
 
 Puedes revisar mis proyectos de práctica en los repositorios de este perfil 👇  
