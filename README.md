@@ -28,8 +28,6 @@ I'm also working independently on projects for small businesses.
 - .Net 
 - Angular
 - React  
-  - Vite  
-  - Create React App
 - MQTT & WebSocket
 
 ### 🗄️ Databases
